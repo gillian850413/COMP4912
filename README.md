@@ -1,5 +1,5 @@
 # COMP4912
-This is a pokemon combat data analysis project.
+This is a pokemon combat data analysis project.<br>
 Techniques: Python, Scikit-Learn, Pandas, Numpy, Matplotlib, Clustering, Random Forest
 
 ## Table of Contents
